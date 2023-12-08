@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+<meta charset = "utf-8">
+<style>
+  body {
+    font-family:monospace;
+    text-align:center;
+    color:limegreen;
+    background-color:black;
+  }
+  .intro {
+    float:left;
+  }
+  .outro {
+    float:right;
+  }
+</style>
+</head>
+<body>
+  <h1>Letter</h1>
+  <h2>From Lower Class Citizen</h2>
+  <h4>French Version:</h4>
+  <p class = "intro">S'adressant au roi Louis-Dieudonné,</p><br>
+  <p></p>
+  <p>J'écris cette lettre au nom de tous les peuples inférieurs de France. <br>Nous vivons tous dans un grand désespoir depuis la récente famine. Très peu d’argent a été gagné. Pendant que vous bénéficiez d’une quantité illimitée de nourriture, des innocents meurent de faim dans leurs maisons. Même moi, un boulanger local, j'ai très peu de nourriture à manger, et encore moins à <em>vendre</em> pour pouvoir me permettre d'acheter plus d'ingrédients.<br> Tout ce que nous voulons, c'est votre aide. De l'argent, de la nourriture, n'importe quoi ! C'est tout ce que nous attendons de vous maintenant. Alors, s'il vous plaît, arrêtez de fermer les yeux sur nos problèmes et <strong>aidez</strong> nous ! Vous ne pouvez pas ignorer nos inquiétudes pour toujours. Certains d’entre nous sont de plus en plus inquiets, et certains parlent même de recourir au crime pour rester en vie. Vous <em><strong>devez</strong></em> de nous aider.</p> <br>
+   <p class = "outro">Cordialement, <br> un paysan anonyme</p></p>
+  <p><br><br><br><br><br><br<br><br><br><br><br><br><br><br><br><br<br><br><br><br><br><br><br><br><br><br<br><br><br><br><br><br><br><br><br><br<br><br><br><br></p>
+  <h4> English Version:</h4>
+  <p class = "intro">Addressing King Louis XIV,</p><br>
+  <p></p>
+  <p>I am writing this letter on behalf of all the lesser peoples of France. <br> We all have lived in great despair ever since the recent famine. Very little money has been made. While you bask in a limitless supply of food, innocent people starve in their homes. Even I, a local baker, have very little food to eat, let alone to <em>sell</em> so that I can afford to buy more ingredients. <br> All that we want is your help. Money, food, anything! That is all that we want from you now. So, please, stop turning a blind eye to our troubles, and <strong>help</strong> us! You cannot ignore our worries forever. Some of us are growing restless, and some were even speaking of resorting to crime to stay alive. You <em><strong>need</strong></em> to help us.</p> <br>
+  <p class = "outro">Sincerely, <br> an anonymous peasant</p>
+</body>
